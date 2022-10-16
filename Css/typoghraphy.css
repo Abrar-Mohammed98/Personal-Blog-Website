@@ -1,0 +1,65 @@
+header h1{
+font-size: 50px;
+}
+
+.nav-bar a{
+ text-decoration: none;
+ color: black;
+}
+
+.nav-bar a:hover {
+  color:#006400; 
+  border:1px solid #006400; 
+  border-radius: 10%;
+}
+
+/*index page*/
+
+.card-box h2{
+    font-size:30px;
+    color:#006400;
+    margin-bottom: 0;
+ }
+
+.card-box p{
+  font-size: 15px;
+}
+
+.card-box a{
+  border: 2px solid #8FBC8F;
+  border-radius: 10%;
+  padding: 10px;
+  text-decoration: none;
+  color:#006400;
+  font-size:25px;
+   margin: 5% 20% 0 20%;
+}
+
+.card-box a:hover{
+  font-size: 30px;
+  color:#8FBC8F; 
+}
+   
+/*post page*/ 
+
+.author-card{
+    text-align: center;
+}
+
+.author-card p{
+    font-size: 14px;
+}
+
+.author-card a{
+    color: black;
+    font-size: 12px;
+}
+.main article{
+font-size: 18px;
+margin-top: 15%;
+margin-left: 5%;
+}
+     
+.big-word{
+    font-size: 30px;
+}
